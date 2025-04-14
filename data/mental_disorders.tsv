@@ -1,0 +1,15 @@
+Cause ID	Cause Name	Level	Cause Outline	MESH	OpenAlex	Wikidata	Wikipedia
+558	Mental disorders	2	B.6	D001523	C2776674806;C3019946834;C2908876842;C2992895887	Q12135	https://en.wikipedia.org/wiki/Mental_disorder
+559	Schizophrenia	3	B.6.1	D012559	C2780187144	Q41112	https://en.wikipedia.org/wiki/Schizophrenia
+567	Depressive disorders	3	B.6.2	D019964	C2777134132	Q188638	https://en.wikipedia.org/wiki/Mood_disorder
+568	Major depressive disorder	4	B.6.2.1	D003865	C2780051608	Q42844	https://en.wikipedia.org/wiki/Major_depressive_disorder
+569	Dysthymia	4	B.6.2.2	D019263	C2992789181;C2911125582	Q427810	https://en.wikipedia.org/wiki/Dysthymia
+570	Bipolar disorder	3	B.6.3	D001714	C2776174506;C3018341554;C3018654210;C3019648654;C2910604615	Q131755	https://en.wikipedia.org/wiki/Bipolar_disorder
+571	Anxiety disorders	3	B.6.4	D001008	C2776317618;C2908919616	Q544006	https://en.wikipedia.org/wiki/Anxiety_disorder
+572	Eating disorders	3	B.6.5	D001068	C2776394216	Q373822	https://en.wikipedia.org/wiki/Eating_disorder
+573	Anorexia nervosa	4	B.6.5.1	D000856	C2777031586	Q131749	https://en.wikipedia.org/wiki/Anorexia_nervosa
+574	Bulimia nervosa	4	B.6.5.2	D052018	C2777556793	Q64513386	https://en.wikipedia.org/wiki/Bulimia_nervosa
+575	Autism spectrum disorders	3	B.6.6	D001321	C205778803;C2911054320;C2910888415	Q38404	https://en.wikipedia.org/wiki/Autism
+578	Attention-deficit/hyperactivity disorder	3	B.6.7	D001289	C2780783007;C2994409691;C2910073837	Q181923	https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder
+579	Conduct disorder	3	B.6.8	D019955	C2780135496	Q596474	https://en.wikipedia.org/wiki/Conduct_disorder
+582	Idiopathic developmental intellectual disability	3	B.6.9	D008607	C551499885;C3019965780;C2993597288;C3019745381	Q183560	https://en.wikipedia.org/wiki/Intellectual_disability
